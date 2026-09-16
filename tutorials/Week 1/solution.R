@@ -32,6 +32,8 @@ y <- c(0, 4, 4, 5, 7, 10)
 # create vector
 quantilesVec <- c(55, 84, 65, 54, 61, 67, 80, 59, 81, 82)
 
+sum(y)
+
 # (1) calculate median 
 
 # (2) calculate quantiles
